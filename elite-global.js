@@ -3,22 +3,7 @@
  * Version 1.0.0 — MIT
  */
 
-//(function(){
- // 'use strict';
 
-  // ——— CONFIGURE THESE URLs ———
-  // Point at your hosted CSS/JS (GitHub Pages, jsDelivr, raw.githubusercontent, etc.)
-  //const assets = {
-  //  css: [
-  //    'https://your-username.github.io/custom-injector/custom.css',
-      // 'https://cdn.jsdelivr.net/gh/your-username/custom-injector@main/custom2.css',
-  //  ],
-  //  js: [
-  //    'https://your-username.github.io/custom-injector/custom.js',
-      // 'https://cdn.jsdelivr.net/gh/your-username/custom-injector@main/other-script.js',
-  //  ]
-  //};
-  // ———————————————— 
 
   function loadCSS(href){
     const link = document.createElement('link');
