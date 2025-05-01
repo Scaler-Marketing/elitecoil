@@ -3,7 +3,6 @@
  * Version 1.0.0 — MIT
  */
 
-
   function loadCSS(href){
     const link = document.createElement('link');
     link.rel  = 'stylesheet';
