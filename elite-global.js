@@ -18,7 +18,7 @@
       // 'https://cdn.jsdelivr.net/gh/your-username/custom-injector@main/other-script.js',
   //  ]
   //};
-  // ————————————————
+  // ———————————————— 
 
   function loadCSS(href){
     const link = document.createElement('link');
